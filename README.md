@@ -1,2 +1,2 @@
 # sdk-examples
-Examples for bluequbit Python SDK
+Examples for BlueQubit Python SDK
