@@ -1,0 +1,5 @@
+bluequbit>=0.15.1b1
+qiskit>=1
+matplotlib>=3.10
+numpy>=1.26
+ipykernel>=6.26
