@@ -27,4 +27,4 @@ gradient_method = "pennylane"
 pennylane_diff_method = "best"
 loss_type = "amplitude-l2"
 
-num_cpus = 2
+num_parallel_workers = 2
